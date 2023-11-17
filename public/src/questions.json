@@ -1,0 +1,38 @@
+{"questions":[
+	{"question":"Jack ________ for a job since May","answers":[
+		{"text":"has been looking", "correct":true},
+		{"text":"has done looking", "correct":false}
+	]},
+	{"question":"She told me that she ________ late","answers":[
+		{"text":"would be", "correct":false},
+		{"text":"will be", "correct":true}
+	]},
+	{"question":"Rick ________ ","answers":[
+		{"text":"had pierced his ear", "correct":true},
+		{"text":"had his ear pierced", "correct":false}
+	]},
+	{"question":"The tour ________ at four in the afternoon","answers":[
+		{"text":"leaves", "correct":true},
+		{"text":"is leave", "correct":false}
+	]},
+	{"question":"Barter ________ since the beginning of human society","answers":[
+		{"text":"has practiced", "correct":false},
+		{"text":"has been practiced", "correct":true}
+	]},
+	{"question":"Henry asked the teacher when________","answers":[
+		{"text":"the exam was", "correct":true},
+		{"text":"is the exam being", "correct":false}
+	]},
+	{"question":"An architect is a professional ___________ designs and builds houses and oher buildings","answers":[
+		{"text":"who", "correct":true},
+		{"text":"What", "correct":false}
+	]},
+	{"question":"I'm ________ meeting him","answers":[
+		{"text":"looking forward to", "correct":true},
+		{"text":"look forward in", "correct":false}
+	]},
+	{"question":"I didn't understand my algebra homework________ I asked Paul for Help. He's a greater teacher","answers":[
+		{"text":"so", "correct":true},
+		{"text":"that", "correct":false}
+	]}
+]}

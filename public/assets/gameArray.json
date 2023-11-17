@@ -1,0 +1,374 @@
+{
+	"frames" : [{
+			"filename" : "again",
+			"frame" : {
+				"x" : 601,
+				"y" : 413,
+				"w" : 350,
+				"h" : 64
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 350,
+				"h" : 64
+			},
+			"sourceSize" : {
+				"w" : 350,
+				"h" : 64
+			}
+		}, {
+			"filename" : "again2",
+			"frame" : {
+				"x" : 601,
+				"y" : 629,
+				"w" : 350,
+				"h" : 64
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 350,
+				"h" : 64
+			},
+			"sourceSize" : {
+				"w" : 350,
+				"h" : 64
+			}
+		}, {
+			"filename" : "again3",
+			"frame" : {
+				"x" : 0,
+				"y" : 1157,
+				"w" : 811,
+				"h" : 149
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 811,
+				"h" : 149
+			},
+			"sourceSize" : {
+				"w" : 811,
+				"h" : 149
+			}
+		}, {
+			"filename" : "barraVida2",
+			"frame" : {
+				"x" : 684,
+				"y" : 1307,
+				"w" : 200,
+				"h" : 38
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 38
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 38
+			}
+		}, {
+			"filename" : "barraVida1",
+			"frame" : {
+				"x" : 201,
+				"y" : 342,
+				"w" : 200,
+				"h" : 38
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 38
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 38
+			}
+		}, {
+			"filename" : "caja",
+			"frame" : {
+				"x" : 0,
+				"y" : 342,
+				"w" : 200,
+				"h" : 120
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 120
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 120
+			}
+		}, {
+			"filename" : "equis",
+			"frame" : {
+				"x" : 601,
+				"y" : 0,
+				"w" : 400,
+				"h" : 412
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 400,
+				"h" : 412
+			},
+			"sourceSize" : {
+				"w" : 400,
+				"h" : 412
+			}
+		}, {
+			"filename" : "ok",
+			"frame" : {
+				"x" : 752,
+				"y" : 478,
+				"w" : 150,
+				"h" : 150
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 150,
+				"h" : 150
+			},
+			"sourceSize" : {
+				"w" : 150,
+				"h" : 150
+			}
+		}, {
+			"filename" : "lose",
+			"frame" : {
+				"x" : 0,
+				"y" : 463,
+				"w" : 600,
+				"h" : 346
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 600,
+				"h" : 346
+			},
+			"sourceSize" : {
+				"w" : 600,
+				"h" : 346
+			}
+		}, {
+			"filename" : "ok2",
+			"frame" : {
+				"x" : 601,
+				"y" : 478,
+				"w" : 150,
+				"h" : 150
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 150,
+				"h" : 150
+			},
+			"sourceSize" : {
+				"w" : 150,
+				"h" : 150
+			}
+		}, {
+			"filename" : "ok3",
+			"frame" : {
+				"x" : 812,
+				"y" : 1157,
+				"w" : 149,
+				"h" : 146
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 149,
+				"h" : 146
+			},
+			"sourceSize" : {
+				"w" : 149,
+				"h" : 146
+			}
+		}, {
+			"filename" : "tabla",
+			"frame" : {
+				"x" : 201,
+				"y" : 381,
+				"w" : 100,
+				"h" : 60
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 100,
+				"h" : 60
+			},
+			"sourceSize" : {
+				"w" : 100,
+				"h" : 60
+			}
+		}, {
+			"filename" : "paloma",
+			"frame" : {
+				"x" : 601,
+				"y" : 694,
+				"w" : 400,
+				"h" : 332
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 400,
+				"h" : 332
+			},
+			"sourceSize" : {
+				"w" : 400,
+				"h" : 332
+			}
+		}, {
+			"filename" : "vs",
+			"frame" : {
+				"x" : 0,
+				"y" : 8,
+				"w" : 500,
+				"h" : 333
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 500,
+				"h" : 333
+			},
+			"sourceSize" : {
+				"w" : 500,
+				"h" : 333
+			}
+		}, {
+			"filename" : "win",
+			"frame" : {
+				"x" : 0,
+				"y" : 810,
+				"w" : 600,
+				"h" : 346
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 600,
+				"h" : 346
+			},
+			"sourceSize" : {
+				"w" : 600,
+				"h" : 346
+			}
+		}, {
+			"filename" : "pasto",
+			"frame" : {
+				"x" : 0,
+				"y" : 1307,
+				"w" : 683,
+				"h" : 85
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 683,
+				"h" : 85
+			},
+			"sourceSize" : {
+				"w" : 683,
+				"h" : 85
+			}
+		}, {
+			"filename" : "cadenas",
+			"frame" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 300,
+				"h" : 7
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 300,
+				"h" : 7
+			},
+			"sourceSize" : {
+				"w" : 300,
+				"h" : 7
+			}
+		}, {
+			"filename" : "verde",
+			"frame" : {
+				"x" : 0,
+				"y" : 1393,
+				"w" : 1004,
+				"h" : 80
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 1004,
+				"h" : 80
+			},
+			"sourceSize" : {
+				"w" : 1004,
+				"h" : 80
+			}
+		}
+	],
+	"meta" : {
+		"app" : "http://www.leshylabs.com/apps/sstool/",
+		"version" : "Leshy SpriteSheet Tool v0.8.4",
+		"image" : "gameArray.png",
+		"size" : {
+			"w" : 1004,
+			"h" : 1473
+		},
+		"scale" : 1
+	}
+}

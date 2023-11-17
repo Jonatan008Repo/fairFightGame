@@ -1,0 +1,114 @@
+{
+	"frames" : [{
+			"filename" : "redHoodWin",
+			"frame" : {
+				"x" : 0,
+				"y" : 385,
+				"w" : 200,
+				"h" : 154
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 154
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 154
+			}
+		}, {
+			"filename" : "redhoodAtack",
+			"frame" : {
+				"x" : 201,
+				"y" : 385,
+				"w" : 250,
+				"h" : 115
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 250,
+				"h" : 115
+			},
+			"sourceSize" : {
+				"w" : 250,
+				"h" : 115
+			}
+		}, {
+			"filename" : "redhoodGoSelect",
+			"frame" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 229
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 229
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 229
+			}
+		}, {
+			"filename" : "redHoodLose",
+			"frame" : {
+				"x" : 0,
+				"y" : 230,
+				"w" : 200,
+				"h" : 154
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 154
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 154
+			}
+		}, {
+			"filename" : "redhoodSelect",
+			"frame" : {
+				"x" : 201,
+				"y" : 0,
+				"w" : 300,
+				"h" : 301
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 300,
+				"h" : 301
+			},
+			"sourceSize" : {
+				"w" : 300,
+				"h" : 301
+			}
+		}
+	],
+	"meta" : {
+		"app" : "http://www.leshylabs.com/apps/sstool/",
+		"version" : "Leshy SpriteSheet Tool v0.8.4",
+		"image" : "redHood.png",
+		"size" : {
+			"w" : 501,
+			"h" : 539
+		},
+		"scale" : 1
+	}
+}

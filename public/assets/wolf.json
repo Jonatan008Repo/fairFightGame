@@ -1,0 +1,114 @@
+{
+	"frames" : [{
+			"filename" : "wolfAtackSelect",
+			"frame" : {
+				"x" : 0,
+				"y" : 230,
+				"w" : 350,
+				"h" : 164
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 350,
+				"h" : 164
+			},
+			"sourceSize" : {
+				"w" : 350,
+				"h" : 164
+			}
+		}, {
+			"filename" : "wolfGoSelect",
+			"frame" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 229
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 229
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 229
+			}
+		}, {
+			"filename" : "wolfLose",
+			"frame" : {
+				"x" : 0,
+				"y" : 395,
+				"w" : 200,
+				"h" : 160
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 160
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 160
+			}
+		}, {
+			"filename" : "wolfSelect",
+			"frame" : {
+				"x" : 201,
+				"y" : 0,
+				"w" : 200,
+				"h" : 200
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 200
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 200
+			}
+		}, {
+			"filename" : "wolfWin",
+			"frame" : {
+				"x" : 201,
+				"y" : 395,
+				"w" : 200,
+				"h" : 160
+			},
+			"rotated" : false,
+			"trimmed" : false,
+			"spriteSourceSize" : {
+				"x" : 0,
+				"y" : 0,
+				"w" : 200,
+				"h" : 160
+			},
+			"sourceSize" : {
+				"w" : 200,
+				"h" : 160
+			}
+		}
+	],
+	"meta" : {
+		"app" : "http://www.leshylabs.com/apps/sstool/",
+		"version" : "Leshy SpriteSheet Tool v0.8.4",
+		"image" : "wolf.png",
+		"size" : {
+			"w" : 401,
+			"h" : 555
+		},
+		"scale" : 1
+	}
+}
